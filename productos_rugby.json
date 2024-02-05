@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Remera de Rugby",
+      "description": "Remera oficial de rugby con diseño moderno.",
+      "price": 29.99,
+      "thumbnail": "remera_rugby.jpg",
+      "code": "R001",
+      "stock": 20
+    },
+    {
+      "id": 2,
+      "name": "Shorts de Rugby",
+      "description": "Shorts resistentes para practicar rugby cómodamente.",
+      "price": 34.99,
+      "thumbnail": "shorts_rugby.jpg",
+      "code": "R002",
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "name": "Camiseta de Entrenamiento",
+      "description": "Camiseta ligera ideal para entrenamientos intensivos de rugby.",
+      "price": 27.99,
+      "thumbnail": "camiseta_entrenamiento.jpg",
+      "code": "R003",
+      "stock": 25
+    },
+    {
+      "id": 4,
+      "name": "Pelota de Rugby Oficial",
+      "description": "Pelota de rugby oficial para partidos y entrenamientos.",
+      "price": 39.99,
+      "thumbnail": "pelota_rugby.jpg",
+      "code": "R004",
+      "stock": 30
+    }
+  ]
+  
